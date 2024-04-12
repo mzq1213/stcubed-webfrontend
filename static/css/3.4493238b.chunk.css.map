@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pags/Error/index.less"],"names":[],"mappings":"AAAA,WACI,YAAA,CACA,YAAA,CACA,sBAAA,CACA,kBACJ","file":"3.4493238b.chunk.css","sourcesContent":[".ErrorPage {\n    height:100vh;\n    display: flex;\n    justify-content:center;\n    align-items:center;\n}\n@primary-color: #467DFD;"]}
