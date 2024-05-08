@@ -1,0 +1,1 @@
+(this.webpackJsonpgnjwxt=this.webpackJsonpgnjwxt||[]).push([[3],{123:function(t,e,s){},126:function(t,e,s){"use strict";s.r(e);var i=s(127),n=(s(123),s(2));e.default=function(){return Object(n.jsx)("div",{className:"ErrorPage",children:Object(n.jsx)(i.a,{status:"404",title:"404",subTitle:"Sorry, the page you visited does not exist."})})}}}]);
